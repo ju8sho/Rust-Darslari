@@ -31,7 +31,7 @@ fn main() {
     ! bool, true va false
     */
     let yosh: bool = false;
-    let mut res: String = String::new();
+    let res: String;
 
     // agar yosh true yoki false bolsa 
     match yosh {
